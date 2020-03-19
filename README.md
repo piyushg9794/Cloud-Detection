@@ -24,4 +24,4 @@ Applying concept of (Res-net) + (U-net++) for cloud detection
 - 36M parameters
 - Model image is available as model img file
 - furthur expanded image of model is also available as model img expanded file
-- keras fenerated graph is also available as model file
+- keras generated graph is also available as model file
