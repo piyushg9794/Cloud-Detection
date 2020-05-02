@@ -25,3 +25,6 @@ Applying concept of (Res-net) + (U-net++) for cloud detection
 - Model image is available as model img file
 - furthur expanded image of model is also available as model img expanded file
 - keras generated graph is also available as model file
+
+![](https://github.com/piyushg9794/Cloud-Detection/blob/master/Model%20img.jpg)
+![](https://github.com/piyushg9794/Cloud-Detection/blob/master/model%20img%20expanded.jpg)
